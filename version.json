@@ -1,0 +1,6 @@
+{
+  "versionCode": 6,
+  "versionName": "0.7",
+  "apkUrl": "https://github.com/Kyle12138473/paishe-guide/releases/download/v0.7/paishe-guide-v0.7.apk",
+  "notes": "v0.7 更新内容：\n• 修复打开相册 / 点返回时崩溃\n• 侧滑手势正确返回上一页\n• 顶栏图标改为扁平样式、取景网格更细更淡\n• 新增 App 内一键自更新（无需再手动传装安装包）"
+}
